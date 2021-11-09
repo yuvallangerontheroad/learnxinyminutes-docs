@@ -98,7 +98,7 @@ P(A) = { x : x ⊆ A }
 Given two sets `A` and `B`, the union of the two sets are the items that appear in either `A` or `B`, written as `A ∪ B`.
 
 ```
-A ∪ B = { x : x ∈ A ∪ x ∈ B }
+A ∪ B = { x : x ∈ A OR x ∈ B }
 ```
 
 ### Intersection
